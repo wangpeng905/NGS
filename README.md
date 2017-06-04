@@ -5,6 +5,6 @@
  - WGS pipeline
  - WES pipeline
  - WGBS pipeline
- - tumor-normal pair WGS somatic mutation calling pipeline
- - RNA-seq variant calling pipeline
+ - Tumor Normal WGS somatic mutation calling pipeline
+ - GATK Best Practices for variant calling on RNA-seq
  - RNA-seq pipeline
