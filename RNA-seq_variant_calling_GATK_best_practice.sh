@@ -1,8 +1,8 @@
 #!/usr/bin/bash
 
-
 for sample in samp01 samp02 samp03 samp04 samp05 samp06 samp07 samp08 samp09 samp10
 do
+
 # star 1-pass align
 mkdir -p /Test170300561/${sample}/Alignment
 cd /Test170300561/${sample}/Alignment
@@ -183,4 +183,5 @@ rm /Test170300561/${sample}/Alignment_2pass/${sample}.passed.eff.clinvar.vcf
 rm /Test170300561/${sample}/Alignment_2pass/${sample}.passed.eff.clinvar.dbsnp138.vcf
 rm /Test170300561/${sample}/Alignment_2pass/${sample}.passed.eff.clinvar.dbsnp138.dbsnp142.vcf
 mv /Test170300561/${sample}/Alignment_2pass/${sample}.passed.eff.clinvar.dbsnp138.dbsnp142.esp6500.vcf /Test170300561/${sample}/Alignment_2pass/${sample}.passed.ann.vcf		
+
 done
