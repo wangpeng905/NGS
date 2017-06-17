@@ -1,10 +1,7 @@
-# NGS_pipeline
+# 常用生物信息分析软件使用笔记
 
-## 常用 pipeline 笔记
+## GATK 检测变异
 
- - WGS pipeline
- - WES pipeline
- - WGBS pipeline
- - Tumor Normal WGS somatic mutation calling pipeline
- - GATK Best Practices for variant calling on RNA-seq
- - RNA-seq pipeline
+## 序列比对
+
+## 其他 ...
