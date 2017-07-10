@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+#!/bin/bash
 
 for sample in samp01 samp02 samp03 samp04 samp05 samp06 samp07 samp08 samp09 samp10
 do
